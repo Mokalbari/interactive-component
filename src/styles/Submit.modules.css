@@ -11,4 +11,8 @@
   margin-top: 1rem;
   display: grid;
   place-items: center;
+
+  &:hover {
+    cursor: pointer;
+  }
 }
