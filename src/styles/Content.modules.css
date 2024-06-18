@@ -1,0 +1,10 @@
+.content {
+  .content__title {
+    font-size: 1.8rem;
+    margin-block: 0.5em;
+  }
+
+  .content__paragraphe {
+    opacity: 0.7;
+  }
+}

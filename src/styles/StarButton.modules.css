@@ -1,0 +1,11 @@
+.star__button {
+  border: none;
+  background: var(--clr-neutral-600);
+  color: white;
+  padding: 1em;
+  border-radius: 50%;
+  margin-bottom: 1.5rem;
+  width: 50px;
+  display: grid;
+  place-items: center;
+}

@@ -1,0 +1,14 @@
+.submit__button {
+  background-color: var(--clr-accent);
+  color: var(--clr-neutral-900);
+  text-transform: uppercase;
+  font-weight: var(--fw-bold);
+  letter-spacing: 2px;
+  font-size: 1.2rem;
+  border: none;
+  padding-block: 0.5em;
+  border-radius: 1.2rem;
+  margin-top: 1rem;
+  display: grid;
+  place-items: center;
+}

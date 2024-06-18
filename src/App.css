@@ -1,0 +1,21 @@
+.card {
+  background: var(--clr-neutral-600);
+  background: linear-gradient(
+    0deg,
+    var(--clr-neutral-900) -30%,
+    var(--clr-neutral-600) 100%
+  );
+  max-width: 45ch;
+  padding: 2.5rem;
+  border-radius: 1.2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-block: 1rem;
+}
